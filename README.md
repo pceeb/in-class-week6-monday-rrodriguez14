@@ -22,14 +22,14 @@ would you change in our program?
 
         Write you answer here:
         
-        If we did not include 'import sys' in our program, the sys module would not load making it inaccesible to me. We would           get an error message. 
+        #If we did not include 'import sys' in our program, the sys module would not load making it inaccesible to me. We would           get an error message. 
 
 3. Let’s suppose that the third file that the user provides as input
 has only one column. What error message will be generated?
 
         Write you answer here: 
         
-        The error message that would be created would be mentioning that we do not have a third file or that it would be empty           in this case, thus making it imposible to print. 
+        #The error message that would be created would be mentioning that we do not have a third file or that it would be empty           in this case, thus making it imposible to print. 
 
 4. Our program split lines of input files (except the first file) into elements
 that are tab delimitated. However, data could be split by `,` or many other
